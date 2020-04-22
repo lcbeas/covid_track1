@@ -3,6 +3,10 @@ Luke Beasley, Shahen Mirzoyan, Maxime Tchibozo, Akshay Pakhle
 
 Guidelines : https://datascience.columbia.edu/dsis-center-health-analytics-launches-covid-19-data-challenge
 
+Data Sources:
+1.
+2. https://ourworldindata.org/covid-testing
+
 Predict values of the cumulative number of confirmed cases, recovered cases and deaths for May 1, 2020.
 
 Submission format for Track 1:
